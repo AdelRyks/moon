@@ -3,8 +3,8 @@
 	 
   }
 .text{
-	margin: auto;
-	width: 50%; 
+	align-self: center;
+	align-content: top;
 	font-family: Arial, Helvetica, sans-serif;
 	color: #ffe1a8;
 	font-size: 12px;
