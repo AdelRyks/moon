@@ -2,7 +2,7 @@
 	background-color: #1b998b;
 	 
   }
-p{
+.text{
 	display: flex;
 	justify-content: top;
 	align-items: center;
